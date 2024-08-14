@@ -185,6 +185,7 @@ function KanBanBoard(){
         };
 
         setTasks([...tasks, newTask]);
+        console.log(tasks);
     }
 
     function deleteTask(id:Id){
