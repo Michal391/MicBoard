@@ -48,8 +48,8 @@ function ColumnContainer(props: Props){
         border-rose-500
         bg-columnBackgroundColor
         w-[350px]
-        h-[500px]
-        max-h-[500px]
+        h-[800px]
+        max-h-[800px]
         rounded-md
         flex
         flex-col
